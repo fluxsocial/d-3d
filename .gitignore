@@ -11,3 +11,6 @@ build
 hc-dna/workdir/social-context.dna
 
 release/*
+
+!config.js
+!config.icons.js

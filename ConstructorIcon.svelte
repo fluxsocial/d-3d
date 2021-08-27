@@ -4,7 +4,7 @@
     function handleClick() {
         if (path != null) {
             console.log("Trying to load URL/path", path);
-            commitExpression(path);
+            commitExpression({path});
         } else {
             console.error("Please provide either a file or url")
         }
