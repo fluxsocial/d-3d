@@ -1,0 +1,13 @@
+dist/
+node_modules/
+target/
+.hc
+.cargo
+*.log
+
+*.js
+*.js.map
+build
+hc-dna/workdir/social-context.dna
+
+release/*
